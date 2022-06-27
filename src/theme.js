@@ -1,7 +1,7 @@
 // theme.js
 export const blueTheme = {
-  body: "#EDF9FE",
-  text: "#001C55",
+  body: "#001C55",
+  text: "#EDF9FE",
   highlight: "#A6E1FA",
   dark: "#00072D",
   secondaryText: "#7F8DAA",
@@ -60,9 +60,9 @@ export const redTheme = {
 };
 
 export const blackTheme = {
-  body: "#E5E5E5",
-  text: "#14213d",
-  highlight: "#ffffff",
+  body: "#14213d",
+  text: "#E5E5E5",
+  highlight: "#172B39",
   dark: "#000000",
   secondaryText: "#5A6377",
   imageHighlight: "#fca311",
