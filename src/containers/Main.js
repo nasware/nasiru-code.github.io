@@ -18,14 +18,14 @@ export default class Main extends Component {
           <HashRouter basename="/">
             <Switch>
               <Route
-                path="/"
+                path="/splash"
                 exact
                 render={(props) => (
                   <Splash {...props} theme={this.props.theme} />
                 )}
               />
               <Route
-                path="/home"
+                path="/"
                 render={(props) => <Home {...props} theme={this.props.theme} />}
               />
               <Route
