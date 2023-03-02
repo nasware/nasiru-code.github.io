@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.143eba78.chunk.css",
-    "main.js": "./static/js/main.500185a8.chunk.js",
-    "main.js.map": "./static/js/main.500185a8.chunk.js.map",
+    "main.css": "./static/css/main.d6261484.chunk.css",
+    "main.js": "./static/js/main.72ef8a9f.chunk.js",
+    "main.js.map": "./static/js/main.72ef8a9f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.f0dab428.chunk.js": "./static/js/2.f0dab428.chunk.js",
-    "static/js/2.f0dab428.chunk.js.map": "./static/js/2.f0dab428.chunk.js.map",
+    "static/js/2.6e25a508.chunk.js": "./static/js/2.6e25a508.chunk.js",
+    "static/js/2.6e25a508.chunk.js.map": "./static/js/2.6e25a508.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d1548d3a039239043419b747147f8c28.js": "./precache-manifest.d1548d3a039239043419b747147f8c28.js",
+    "precache-manifest.eda8eadba998a80713823e172324a5f2.js": "./precache-manifest.eda8eadba998a80713823e172324a5f2.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.143eba78.chunk.css.map": "./static/css/main.143eba78.chunk.css.map",
+    "static/css/main.d6261484.chunk.css.map": "./static/css/main.d6261484.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.be4f4800.png",
@@ -37,8 +37,10 @@
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
+    "static/media/logo.png": "./static/media/logo.fad2250c.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
+    "static/media/nasiru.png": "./static/media/nasiru.95221791.png",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "./static/media/programmer.5faf790b.svg",
@@ -51,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.f0dab428.chunk.js",
-    "static/css/main.143eba78.chunk.css",
-    "static/js/main.500185a8.chunk.js"
+    "static/js/2.6e25a508.chunk.js",
+    "static/css/main.d6261484.chunk.css",
+    "static/js/main.72ef8a9f.chunk.js"
   ]
 }
