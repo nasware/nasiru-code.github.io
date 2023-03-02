@@ -50,7 +50,15 @@ class Header extends Component {
                 </NavLink>
               </li>
               <li>
-                <NavLink
+                <a
+                  href="https://nasirucode.medium.com"
+                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
+                  onMouseOut={(event) => onMouseOut(event)}
+                  target="blank"
+                >
+                  Blog
+                </a>
+                {/* <NavLink
                   to="https://nasirucode.medium.com"
                   tag={Link}
                   activeStyle={{ fontWeight: "bold" }}
@@ -59,7 +67,7 @@ class Header extends Component {
                   onMouseOut={(event) => onMouseOut(event)}
                 >
                   Blog
-                </NavLink>
+                </NavLink> */}
               </li>
               {/* <li>
                 <NavLink
